@@ -1,9 +1,9 @@
-package com.mtscarneirotech.aulas.config;
+package com.mtscarneirotech.application.config;
 
 import java.util.Arrays;
 
-import com.mtscarneirotech.aulas.entities.User;
-import com.mtscarneirotech.aulas.repositories.UserRepository;
+import com.mtscarneirotech.application.entities.User;
+import com.mtscarneirotech.application.repositories.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

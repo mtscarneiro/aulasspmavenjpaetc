@@ -1,4 +1,4 @@
-package com.mtscarneirotech.aulas.entities;
+package com.mtscarneirotech.application.entities;
 
 import java.io.Serializable;
 

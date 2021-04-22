@@ -1,4 +1,4 @@
-package com.mtscarneirotech.aulas;
+package com.mtscarneirotech.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
